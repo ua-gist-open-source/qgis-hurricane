@@ -1,5 +1,6 @@
 # Lab: Hurricane Sergio Map
-## Points: 10
+## Worth: 40
+## Due: 3 days
 ## Assignment
 ### Overview
 Create a hurricane map with symbolized wind speed probabilities for Hurricane Sergio, which was aimed at southern Arizona on October 8, 2018
@@ -29,4 +30,4 @@ This map should use the following:
 - Custom SVG for Hurricane Forecast Location (download from https://upload.wikimedia.org/wikipedia/commons/e/e3/Hurricane_north.svg)
 
 ## Final Product
-Take a screenshot of your QGIS Desktop showing the symbolized map and commit it to your gist415-2019 github repo under lab1/lab1-hurricane-sergio-screenshot.
+Take a screenshot of your QGIS Desktop showing the symbolized map and commit it to this repo as `lab1-hurricane-sergio-screenshot.png` (jpg is ok, too)
