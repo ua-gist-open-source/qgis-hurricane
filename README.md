@@ -1,6 +1,6 @@
 # Lab: Hurricane Sergio Map
 ## Worth: 40
-## Due: 3 days
+## Due: March 24, 2019, 11:59pm
 ## Assignment
 ### Overview
 Create a hurricane map with symbolized wind speed probabilities for Hurricane Sergio, which was aimed at southern Arizona on October 8, 2018
