@@ -2,8 +2,14 @@
 ## Worth: 40
 ## Due: March 24, 2019, 11:59pm
 ## Assignment
+
+### Important GitHub Note
+Up to this point you have edited all your GitHub files directly in the browser. Be sure to check this repo out by cloning
+it with `GitHub Desktop`. You will be creating a QGIS project file ending in `.qgz` which is what you will turn in for 
+this assignment using the GitHub Branch-and-Merge pattern you worked with in Assignments `1-3` and `1-5`.
+
 ### Overview
-Create a hurricane map with symbolized wind speed probabilities for Hurricane Sergio, which was aimed at southern Arizona on October 8, 2018
+Create a hurricane map with symbolized wind speed probabilities for Hurricane Sergio, which was aimed at southern Arizona on October 8, 2018.
 
 ### Source Data
 Data for this project is available in this repository in the `/data` directory. It contains spatial data related to Hurricane Sergio from October 8, 2018, as well as political boundaries and oceans.
