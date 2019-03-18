@@ -36,4 +36,7 @@ This map should use the following:
 - Custom SVG for Hurricane Forecast Location (download from https://upload.wikimedia.org/wikipedia/commons/e/e3/Hurricane_north.svg)
 
 ## Final Product
-Save your QGIS Project as `sergio-{your netid}.qgs` and commit it to this repo in a new branch called `qgis`. Then submit a new PR to merge with master. Be sure to tag me in your PR comments by typing `@aaryno` when you submit; that will ensure I get an email with the mention of my github userid.
+Save your QGIS Project as `sergio-{your netid}.qgs` and commit it to this repo in a new branch called `qgis`. Then submit a new PR to merge with master. 
+
+Be sure to send the instructor a message in slack with a link to your Pull request to initiate the grading process.
+
