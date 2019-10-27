@@ -10,16 +10,16 @@
 Create a hurricane map with symbolized wind speed probabilities for Hurricane Sergio, which was aimed at southern Arizona on October 8, 2018.
 
 ### Source Data
-Data for this project is available in this repository in the `/data` directory. It contains spatial data related to Hurricane Sergio from October 8, 2018, as well as political boundaries and oceans.
+Data for this project is available in this repository on `D2L`. When you unzip the `data.zip` file you will find spatial data related to Hurricane Sergio from October 8, 2018, as well as political boundaries and oceans.
 
-- US States - states/cb_2017_us_state_5m.shp
-- World Countries - countries/ne_50m_admin_0_countries.shp
-- World Oceans - water/simplified-water-polygons-complete-3857.shp
+- US States - `data/states/cb_2017_us_state_5m.shp`
+- World Countries - `data/countries/ne_50m_admin_0_countries.shp`
+- World Oceans - `data/water/simplified-water-polygons-complete-3857.shp`
 
 Hurricane Sergio Forecast (Oct 8, 2018):
 
-- Forecast Track and Uncertainty Cone - ep212018_5day/ep212018_5day_latest.shp
-- Wind Speed Probabilities - wsp_120hr5km/wsp_120hr5km_latest.shp
+- Forecast Track and Uncertainty Cone - `data/ep212018_5day/ep212018_5day_latest.shp`
+- Wind Speed Probabilities - `data/wsp_120hr5km/wsp_120hr5km_latest.shp`
 
 ## Assignment
 
