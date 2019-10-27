@@ -1,2 +1,2 @@
 language: bash
-script: ./check_files.sh
+script: .travis/check_files.sh
