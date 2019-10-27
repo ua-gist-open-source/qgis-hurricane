@@ -1,12 +1,10 @@
 # Lab: Hurricane Sergio Map
 ## Worth: 40
-## Due: October 10, 2019, 11:59pm
+## Due: 7 days
 ## Assignment
 
-### Important GitHub Note
-Up to this point you have edited all your GitHub files directly in the browser. Be sure to check this repo out by cloning
-it with `GitHub Desktop`. You will be creating a QGIS project file ending in `.qgz` which is what you will turn in for 
-this assignment using the GitHub Branch-and-Merge pattern you worked with in Assignments `1-3` and `1-5`. Therefore, create your QGIS project file in the same directory that this file (and the data) are checked out in.
+## Deliverable
+- `screencap-sergio-oct8.png`
 
 ### Overview
 Create a hurricane map with symbolized wind speed probabilities for Hurricane Sergio, which was aimed at southern Arizona on October 8, 2018.
@@ -24,6 +22,12 @@ Hurricane Sergio Forecast (Oct 8, 2018):
 - Wind Speed Probabilities - wsp_120hr5km/wsp_120hr5km_latest.shp
 
 ## Assignment
+
+
+### 0. Checkout this assignment and create a new branch named `assignment`.
+Perform all your work in the `assignment` branch. When you have completed the assignment, submit a `Pull request` to merge `assignment` -> `master`.
+
+### 1. Create a forecast map in QGIS of Hurricane Sergio
 Using QGIS, make a map with the following symbologies:
 
 ![Figure 1](hurricane_sergio_map.png)
@@ -35,8 +39,4 @@ This map should use the following:
 - Categorized (wind speed probabilities) with a color ramp
 - Custom SVG for Hurricane Forecast Location (download from https://upload.wikimedia.org/wikipedia/commons/e/e3/Hurricane_north.svg)
 
-## Final Product
-Save your QGIS Project as `sergio-{your netid}.qgs` and commit it to this repo in a new branch called `qgis`. Then submit a new PR to merge with master. 
-
-Be sure to send the instructor a message in slack with a link to your Pull request to initiate the grading process.
-
+Take a screenshot of your final product and name it `screencap-sergio-oct8.png`
