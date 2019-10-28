@@ -15,6 +15,7 @@ Data for this project is available in this repository on `D2L`. When you unzip t
 - US States - `data/states/cb_2017_us_state_5m.shp`
 - World Countries - `data/countries/ne_50m_admin_0_countries.shp`
 - World Oceans - `data/water/simplified-water-polygons-complete-3857.shp`
+_update_ - World Oceans can be downloaded from https://osmdata.openstreetmap.de/data/water-polygons.html
 
 Hurricane Sergio Forecast (Oct 8, 2018):
 
