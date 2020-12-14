@@ -1,2 +1,0 @@
-language: bash
-script: .travis/check_files.sh
