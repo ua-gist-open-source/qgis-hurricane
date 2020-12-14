@@ -24,7 +24,7 @@ Your job is to combine the projected path (both line and cone of uncertainty, th
   
   - **Advisory Forecast Track, Cone of Uncertainty, and Watches/Warnings‡** Select the appropriate year at right. This produces a list of links to zip files of each of the advisories. An example advisory might look like this: `al132020_5day_006.zip` with the last three digits representing the advisory number (e.g., `006` in this example). Download and unzip the file file to reveal 4 shapefiles. You will use the point (`pts`), line (`lin`), and polygon (`pgn`) shapefiles.
   
- ![hurricane_laura_advisory_archive.png](hurricane_laura_advisory_archive)
+ ![hurricane_laura_advisory_archive.png](hurricane_laura_advisory_archive.png)
  - **Wind Speed Probabilities** Select the appropriate year at right. This gives a full list of wind speed probabilities for the whole year so hone in on the date you need to match the advisory and download the zip file. Download and extract the zip file. You will see files assoihated with 3 shapefiles for the 34-kt, 50-kt and 64-kt wind speed probabilities. You will only use the 64-kt wind speed probability, which will be named something like `2020082500_wsp64knt120hr_5km`where the first 10 characters are date/time in the form of `YYYYMMDDHH`, then the second part is `wsp64kt`to indicate 64-knot forecast and the final part is the forecast period (`120 hr`) and spatial resolution (`5km`).
  
   
