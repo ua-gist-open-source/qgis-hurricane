@@ -18,7 +18,7 @@ Your job is to combine the projected path (both line and cone of uncertainty, th
   - Use the "Graphics Archive" to select a particular advisory. Take note of the advisory number and the date.
   - Take note of the date and specific advisory (e.g., `6` and `6a` are different.
 ![hurricane_laura_forecast_advisories.png](hurricane_laura_forecast_advisories.png)
-3) Download the GIS Products.
+3) Download the GIS Products (At `Analyses and Forecasts`->`GIS Products`, or at https://www.nhc.noaa.gov/gis/).
   - You will need to know the date and the advisory number and find the appropriate zip files for the following two sections:
   ![hurricane_gis_products.png](hurricane_gis_products.png). More details follow:
   
