@@ -8,12 +8,12 @@
 Create a hurricane map with symbolized wind speed probabilities for a historic (or current) hurricane.
 
 ### Download Source Data
-The National Hurricane Center monitors the Atlantic and PAcific basins for signs of tropical storm development and, when tropical storms develop, name and track them. When they become a tropical storm they begin issuing advisories every 6 hours until the storm has been downgraded and is no longer perceived as a tropical storm threat. The 6-hr advisories are typically released with shapefiles and kml files showing the projected path, the cone of uncertainty, and the historic path to-date. This goes along with a daily product of wind speed probabilities, a polygon product that provide the forecasted probabilities of 34-, 50-, and 64-knot sustained winds to help assess wind risk of potentially affected areas.
+The National Hurricane Center monitors the Atlantic and Pacific basins for signs of tropical storm development and, when tropical storms develop, name and track them. When they become a tropical storm they begin issuing advisories every 6 hours until the storm has been downgraded and is no longer perceived as a tropical storm threat. The 6-hr advisories are typically released with shapefiles and kml files showing the projected path, the cone of uncertainty, and the historic path to-date. This goes along with a daily product of wind speed probabilities, a polygon product that provide the forecasted probabilities of 34-, 50-, and 64-knot sustained winds to help assess wind risk of potentially affected areas.
 
-Your job is to combine the projected path (both line and cone of uncertainty, the historic path, and the wind speed probabilities into a map product. The process for obtaining the data is thus:
+Your job is to combine the projected path (both line and cone of uncertainty, the historic path, and the wind speed probabilities into a map product. Examples are included from past Hurricane Laura. The process for obtaining the data is:
 
-1) Pick a named tropical storm from the [Tropical Cyclone Advisory Archive](https://www.nhc.noaa.gov/archive/2020/), though feel free to change the year.
-2) Select a particular advisory:
+1) From the [Tropical Cyclone Advisory Archive](https://www.nhc.noaa.gov/archive/2021/), find Hurricane Ida (in the Atlantic).
+2) Select an advisory from before landfall (August 29, 2021):
   - Click on the storm to see its Advisory Archive and:
   - Use the "Graphics Archive" to select a particular advisory. Take note of the advisory number and the date.
   - Take note of the date and specific advisory (e.g., `6` and `6a` are different.
@@ -28,8 +28,7 @@ Your job is to combine the projected path (both line and cone of uncertainty, th
  - **Wind Speed Probabilities** Select the appropriate year at right. This gives a full list of wind speed probabilities for the whole year so hone in on the date you need to match the advisory and download the zip file. Download and extract the zip file. You will see files assoihated with 3 shapefiles for the 34-kt, 50-kt and 64-kt wind speed probabilities. You will only use the 64-kt wind speed probability, which will be named something like `2020082500_wsp64knt120hr_5km`where the first 10 characters are date/time in the form of `YYYYMMDDHH`, then the second part is `wsp64kt`to indicate 64-knot forecast and the final part is the forecast period (`120 hr`) and spatial resolution (`5km`).
  
   
-
-Data for this project is available in this repository on `D2L`. When you unzip the `data.zip` file you will find spatial data related to political boundaries and oceans.
+Ancilliary data for this project is available in this repository on `D2L`. When you unzip the `data.zip` file you will find spatial data related to political boundaries and oceans.
 
 - US States - `data/states/cb_2017_us_state_5m.shp`
 - World Countries - `data/countries/ne_50m_admin_0_countries.shp`
