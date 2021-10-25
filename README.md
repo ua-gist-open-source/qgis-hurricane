@@ -2,7 +2,7 @@
 ## Assignment
 
 ## Deliverable
-- `screencap-hurricane_map.png`
+- `screencap_hurricane.png`
 
 ### Overview
 Create a hurricane map with symbolized wind speed probabilities for a historic (or current) hurricane.
